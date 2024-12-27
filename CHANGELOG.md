@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-26)
+## Unreleased (2024-12-27)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`054139f`](https://github.com/stdlib-js/stdlib/commit/054139f55063bd8fed79c45dc0faf6c2fe67d869) - **refactor:** update benchmarks in `stats/base` to follow latest project conventions [(#4299)](https://github.com/stdlib-js/stdlib/pull/4299) _(by Aayush Khanna)_
 -   [`3a2d4a7`](https://github.com/stdlib-js/stdlib/commit/3a2d4a787de68dbfd5a5e7522b0839db6f2a2245) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`e6e539d`](https://github.com/stdlib-js/stdlib/commit/e6e539de309f16846b3e782d377c65c3bc8ec5e6) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanmin` [(#4235)](https://github.com/stdlib-js/stdlib/pull/4235) _(by Aayush Khanna, Philipp Burckhardt)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
